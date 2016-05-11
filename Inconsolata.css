@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'opensans';
+  font-style: normal;
+  font-weight:100;
+  src: local('opensans'), url(opensans300.woff) format('woff');
+}
+

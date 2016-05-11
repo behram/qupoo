@@ -1,0 +1,1 @@
+<a href="http://qupoo.com"><img src="404.jpg" style="position:fixed;top:0px;left:0px;width:100%;height:100%;z-index:0;" /></a>

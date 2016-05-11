@@ -1,0 +1,1 @@
+<? setcookie("biz_nerdeyiz","1",time()+86400);?>

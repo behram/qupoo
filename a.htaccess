@@ -1,0 +1,19 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^qupoo.com$ [NC]
+RewriteRule ^(.*)$ http://qupoo.com/$1 [R=301,L]
+
+
+
+
+# 1 YIL
+<filesMatch ".(ico|gif|jpg|jpeg|png|flv|pdf)$">
+Header set Cache-Control "max-age=29030400"
+</FilesMatch> 
+# 1 HAFTA
+<filesMatch ".(js|css|swf)$">
+  Header set Cache-Control "max-age=604800"
+</FilesMatch> 
+# 45 DAKIKA
+<filesMatch ".(html|htm|txt)$">
+  Header set Cache-Control "max-age=2700"
+</FilesMatch>
