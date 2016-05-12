@@ -11,4 +11,4 @@ Main Feautures;
 There is some ss from installed site;
 ![output_msito5](https://cloud.githubusercontent.com/assets/4572080/15202167/91cc9f0c-1800-11e6-860f-333ae1c90c0f.gif)
 
-I will installation guide soon.
+I will add installation guide soon.
